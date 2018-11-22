@@ -56,3 +56,15 @@ for a working example
 ### License
 
 MIT
+
+More tree view exampe
+https://blog.usejournal.com/implement-tree-view-component-with-reactjs-and-styled-components-5eea3b1603cf
+
+https://demos.wijmo.com/5/React/TreeViewIntro/TreeViewIntro/
+
+http://engineering.kapost.com/2018/02/building-a-tree-navigation-component-in-react/
+
+https://react.rocks/tag/TreeView
+
+https://reactjsexample.com/tag/tree/
+
